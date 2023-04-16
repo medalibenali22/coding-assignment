@@ -76,7 +76,7 @@
         </execution>
       </executions>
       <configuration>
-        <projectKey>http://localhost:9000</projectKey>
+        <projectKey>medalibenali22_coding-assignment</projectKey>
         <!-- Other configuration properties -->
       </configuration>
     </plugin>
