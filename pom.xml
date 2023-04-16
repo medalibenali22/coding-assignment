@@ -76,7 +76,7 @@
         </execution>
       </executions>
       <configuration>
-        <projectKey>http://localhost:8080</projectKey>
+        <projectKey>http://localhost:9000</projectKey>
         <!-- Other configuration properties -->
       </configuration>
     </plugin>
